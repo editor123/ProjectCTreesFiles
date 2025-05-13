@@ -79,9 +79,5 @@ This class extends `BinarySearchTree<T>` and provides the following key function
 
 ## Author
 
-* Your Name
-* Your Email/Contact Information
-
-## License
-
-* (Optional: Specify any license information)
+* Sangharsha, Rina, Victor
+* 
