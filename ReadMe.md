@@ -58,7 +58,7 @@ This class extends `BinarySearchTree<T>` and provides the following key function
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/editor123/ProjectCTreesFiles/tree/master
     ```
 
 2.  **Pull Latest Changes:**
